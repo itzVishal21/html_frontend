@@ -1,0 +1,35 @@
+* {
+    font-family: 'New Tegomin', serif;
+    font-family: 'New Tegomin', serif;
+    text-decoration: none;
+    text-align: center;
+}
+
+.box {
+    border: 4px solid black;
+    background-color: gray;
+    margin: 4px 0px;
+    padding: 23px;
+    display: inline-block;
+    width: 33%;
+
+}
+
+.container {
+    padding-top: 127px;
+
+}
+
+h1 {
+    padding-top: 100px;
+}
+
+.main {
+    height: max-content;
+
+}
+
+.btn:hover{
+    background-color: aquamarine;
+    border: 2px solid green;
+}
